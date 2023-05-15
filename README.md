@@ -57,7 +57,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
   # Clonar o projeto:
-  $ git clone https://github.com/Jhonata-Jackson/restart-app-swiftui
+  $ git clone https://github.com/Jhonata-Jackson/pinch-app-swiftui
 
   # Abrir projeto no Xcode:
      Restart.xcodeproj
