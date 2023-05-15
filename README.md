@@ -60,7 +60,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   $ git clone https://github.com/Jhonata-Jackson/pinch-app-swiftui
 
   # Abrir projeto no Xcode:
-     Restart.xcodeproj
+     Pinch.xcodeproj
 
 ```
 
